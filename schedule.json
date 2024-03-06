@@ -1,0 +1,60 @@
+{
+    "schedule": [
+        {
+            "class_name": ["Computer Science A"],
+            "teacher_name": ["Mrs. Hoagland"],
+            "room_number": ["B108"],
+            "days": ["A", "B", "C", "E", "F"],
+            "periods": [1, 2, 3, 1, 2],
+            "honors": "AP"
+        },
+        {
+            "class_name": ["NJIT Advanced Website Development WDPP"],
+            "teacher_name": ["Mrs. Herbert", "Mr. Gasior"],
+            "room_number": ["B114"],
+            "days": ["A", "B", "D", "E", "F"],
+            "periods": [2, 3, 1, 2, 3],
+            "honors": "Honors"
+        },
+        {
+            "class_name": ["ENG121 The Writing Process", "ENG155 The Short Story"],
+            "teacher_name": ["Mrs. Lomovsky"],
+            "room_number": ["E107"],
+            "days": ["A", "C", "D", "E", "G"],
+            "periods": [3, 1, 2, 3, 1],
+            "honors": "BCC"
+        },
+        {
+            "class_name": ["Physical Education", "Health"],
+            "teacher_name": ["Mr. Withstandley"],
+            "room_number": ["GYM 4", "H102"],
+            "days": ["B", "C", "D", "F", "G"],
+            "periods": [1, 2, 3, 1, 2],
+            "honors": ""
+        },
+        {
+            "class_name": ["Calculus AB"],
+            "teacher_name": ["Mr. Drummond"],
+            "room_number": ["D219"],
+            "days": ["A", "B", "D", "E", "G"],
+            "periods": [4, 5, 4, 5, 4],
+            "honors": "AP"
+        },
+        {
+            "class_name": ["Music Theory"],
+            "teacher_name": ["Mr. Gattsek"],
+            "room_number": ["A105"],
+            "days": ["A", "C", "D", "F", "G"],
+            "periods": [5, 4, 5, 4, 5],
+            "honors": ""
+        },
+        {
+            "class_name": ["Band"],
+            "teacher_name": ["Mr. Gattsek"],
+            "room_number": ["A105"],
+            "days": ["B", "C", "E", "F", "G"],
+            "periods": [4, 5, 4, 5, 3],
+            "honors": "Honors"
+        }
+    ]
+}
